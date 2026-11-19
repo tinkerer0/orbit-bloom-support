@@ -1,6 +1,6 @@
 # Orbit Bloom
 
-손가락 하나로 공의 궤도를 바꿔 문을 지나가는 iPhone 아케이드 게임입니다. 무료이고 계정, 광고, 인앱 결제가 없습니다.
+손가락 하나로 공의 궤도를 바꿔 문을 지나가는 iPhone 아케이드 게임입니다. 무료이고 계정과 인앱 결제가 없습니다. 1.1부터 떨어진 뒤 원할 때만 광고를 보고 한 번 이어 할 수 있습니다.
 
 ## 플레이
 
@@ -22,7 +22,7 @@ iOS 15 이상이 필요합니다. 인터넷 없이 동작합니다.
 
 ---
 
-Orbit Bloom is an iPhone arcade game: with one finger you move the ball between orbits and pass through the doors. It is free, with no account, ads or in-app purchases.
+Orbit Bloom is an iPhone arcade game: with one finger you move the ball between orbits and pass through the doors. It is free, with no account or in-app purchases. From 1.1, after a fall you can choose to watch an ad to continue once.
 
 - Tap ▶ to start.
 - Drag up anywhere on the screen for an outer orbit, down for an inner one.
